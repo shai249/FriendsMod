@@ -1,0 +1,10 @@
+{
+  "ah_sheli_mithaten": {
+    "sounds": [
+      {
+        "name": "friendsmod:ah_sheli_mithaten",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "friendsmod:promethazine"
+    },
+    "W": {
+      "item": "minecraft:potion"
+    }
+  },
+  "pattern": [
+    "PW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "friendsmod:cough_syrup"
+  }
+}

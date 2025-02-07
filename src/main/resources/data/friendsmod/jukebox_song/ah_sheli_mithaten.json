@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.friendsmod.ilay_music_disc.desc"
+  },
+  "length_in_seconds": 16.0,
+  "sound_event": "friendsmod:ah_sheli_mithaten"
+}

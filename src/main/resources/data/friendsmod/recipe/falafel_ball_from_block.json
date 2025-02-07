@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "friendsmod:falafel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "friendsmod:falafel_ball"
+  }
+}
